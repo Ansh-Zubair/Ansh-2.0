@@ -66,7 +66,7 @@ let menuMsg = `
 *»»————— ★ —————««*
 Pour utiliser  une  commande, tapez  ${prefixe}"nom de la commande"
  
- powered by zokou-md
+ powered by anshbot-md
                                                 
 *»»————— ★ —————««*
 `;
