@@ -8,7 +8,7 @@ zokou({ nomCom: "proprio", categorie: "Général", reaction: "💞" }, async (de
   const thsudo = await isSudoTableNotEmpty()
 
   if (thsudo) {
-     let msg = `*Zokou Super-User*\n
+     let msg = `*Ansh Super-User*\n
      *Numero proprietaire\n* :
 - 🌟 @${conf.NUMERO_OWNER}
 
